@@ -116,3 +116,14 @@ ul li span:hover{
     background-color: #efefe0;
 
 }
+
+@media  screen and(max-width: 480px) {
+    .to-do{
+        width: 70vb;
+        max-width: 400px;
+    }
+    .container{
+        width: 80%;
+        
+    }
+}
